@@ -1,6 +1,5 @@
 # Capital Robotics FTC #14251
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -36,7 +35,6 @@ Our software team focuses on several key areas:
 
 - Autonomous Programming: Developing precise and efficient code for the robot to operate independently during the autonomous period, ensuring it can complete tasks like navigating the field and scoring points without driver input.
 - Driver-Controlled Programming: Writing responsive and intuitive control systems to allow smooth operation during the driver-controlled period.
-- Sensor Integration: Incorporating various sensors into the code to provide real-time data that enhances the robot’s performance and decision-making.
 - Testing and Debugging: Constantly refining our code through testing and debugging to ensure it’s competition-ready. We work closely with the hardware team to troubleshoot and optimize robot performance.
 
 
