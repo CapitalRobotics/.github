@@ -37,5 +37,20 @@ Our software team focuses on several key areas:
 - Driver-Controlled Programming: Writing responsive and intuitive control systems to allow smooth operation during the driver-controlled period.
 - Testing and Debugging: Constantly refining our code through testing and debugging to ensure it’s competition-ready. We work closely with the hardware team to troubleshoot and optimize robot performance.
 
+## New Here?
+Welcome! If you're a new member of our team, or new to programming in FTC, we encourage you to start by exploring our repository for our practice robot, ERROR, [Repository](https://github.com/CapitalRobotics/Errors_Brian.git). If you're new to programming in general, we've gathered some useful links for you!
+
+## Resources
+- [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo&t=6350s)
+- [Intro to Android Studio](https://developer.android.com/get-started/overview)
+- [FTC Programming Resoeuces](https://www.firstinspires.org/resource-library/ftc/technology-information-and-resources)
+- [Block Programming](https://ftc-docs.firstinspires.org/en/latest/programming_resources/index.html)
+- [Android Studio (FTC)](https://ftc-docs.firstinspires.org/en/latest/programming_resources/android_studio_java/Android-Studio-Tutorial.html)
+- [On Bot Java](https://ftc-docs.firstinspires.org/en/latest/programming_resources/onbot_java/OnBot-Java-Tutorial.html)
+
+## Our Repositories
+- [Janxs Brain](https://github.com/CapitalRobotics/Janxs_Brain.git) Is our main FTC robot, Janx, the main repository, complete with the current season, as well as past seasons code.
+- [Errors Brain](https://github.com/CapitalRobotics/Errors_Brian.git) Is our repository for our practice FTC robot, Error, complete with introductory resources.
+ 
 
  
