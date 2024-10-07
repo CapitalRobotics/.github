@@ -8,6 +8,8 @@ Welcome to Capital Robotics!
 
 We are Capital Robotics, an enthusiastic and passionate team participating in the FIRST Tech Challenge (FTC). Our mission is to inspire young minds through science, technology, engineering, and mathematics (STEM) by building innovative robots and competing in exciting challenges. Founding Year - 2017.
 
+[Website](https://sites.google.com/mpsvt.org/capital-robotics/home)
+
 ## Awards
 - **1st Place Think Award 2024**
 - **3rd Place Motivate Award 2024**
