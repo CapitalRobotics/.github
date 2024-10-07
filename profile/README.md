@@ -1,10 +1,10 @@
-# Capital Robotics FTC #14251
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Welcome to Capital Robotics!
+# Capital Robotics FTC #14251
+## Welcome to Capital Robotics!
 
 We are Capital Robotics, an enthusiastic and passionate team participating in the FIRST Tech Challenge (FTC). Our mission is to inspire young minds through science, technology, engineering, and mathematics (STEM) by building innovative robots and competing in exciting challenges. Founding Year - 2017.
 
