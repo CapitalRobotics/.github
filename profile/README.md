@@ -53,6 +53,8 @@ Welcome! If you're a new member of our team, or new to programming in FTC, we en
 ## Our Repositories
 - [Janxs Brain](https://github.com/CapitalRobotics/Janxs_Brain.git) Is our main FTC robot, Janx, the main repository, complete with the current season, as well as past seasons code.
 - [Errors Brain](https://github.com/CapitalRobotics/Errors_Brian.git) Is our repository for our practice FTC robot, Error, complete with introductory resources.
+- [ATEM](https://github.com/CapitalRobotics/ATEM.git) ATEM is an optimization machine learning model for the autonomous stage of the competition. 
+
  
 
  
