@@ -51,6 +51,12 @@ Our software team focuses on several key areas:
 ## New Here?
 Welcome! If you're a new member of our team, or new to programming in FTC, we encourage you to start by exploring our repository for our practice robot, ERROR, [Repository](https://github.com/CapitalRobotics/Errors_Brian.git). If you're new to programming in general, we've gathered some useful links for you!
 
+You can also start helping by looking over some Good First Issues, 
+
+- [Janxs Brain](https://github.com/CapitalRobotics/Janxs_Brain/labels/good%20first%20issue)
+- [Auto Track](https://github.com/CapitalRobotics/AutoTrack/issues?q=is:issue+is:open+label:%22good+first+issue%22)
+
+
 ## Resources
 - [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo&t=6350s)
 - [Intro to Android Studio](https://developer.android.com/get-started/overview)
