@@ -68,7 +68,7 @@ You can also start helping by looking over some Good First Issues,
 - [Android Studio (FTC)](https://ftc-docs.firstinspires.org/en/latest/programming_resources/android_studio_java/Android-Studio-Tutorial.html)
 - [On Bot Java](https://ftc-docs.firstinspires.org/en/latest/programming_resources/onbot_java/OnBot-Java-Tutorial.html)
 
-## Our Repositories
+## Repositories
 ### Core
 - [Janxs Brain](https://github.com/CapitalRobotics/Janxs_Brain.git) Is our main FTC robot, Janx, the main repository, complete with the current season, as well as past seasons code.
 - [Errors Brain](https://github.com/CapitalRobotics/Errors_Brian.git) Is our repository for our practice FTC robot, Error, complete with introductory resources.
