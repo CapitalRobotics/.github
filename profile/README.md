@@ -6,9 +6,13 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 
+
 [![](https://jitpack.io/v/CapitalRobotics/AutoTrack.svg)](https://jitpack.io/#CapitalRobotics/AutoTrack)
 [![PyPI](https://img.shields.io/pypi/v/atem)](https://pypi.org/project/atem/)
 [![CodeQL Advanced](https://github.com/CapitalRobotics/ATEM/actions/workflows/codeql.yml/badge.svg)](https://github.com/CapitalRobotics/ATEM/actions/workflows/codeql.yml)
+[![Java 20 CI](https://github.com/CapitalRobotics/AutoTrack/actions/workflows/java20.yml/badge.svg)](https://github.com/CapitalRobotics/AutoTrack/actions/workflows/java20.yml)
+[![ATEM Tests](https://github.com/torinriley/ATEM-14251-/actions/workflows/tests.yml/badge.svg)](https://github.com/torinriley/ATEM-14251-/actions/workflows/tests.yml)
+
 
 
 
@@ -17,7 +21,6 @@
 
 We are Capital Robotics, an enthusiastic and passionate team participating in the FIRST Tech Challenge (FTC). Our mission is to inspire young minds through science, technology, engineering, and mathematics (STEM) by building innovative robots and competing in exciting challenges. Founding Year - 2017.
 
-[Website](https://sites.google.com/mpsvt.org/capital-robotics/home)
 
 ## Awards
 - **1st Place Think Award 2024**
@@ -66,8 +69,11 @@ You can also start helping by looking over some Good First Issues,
 - [On Bot Java](https://ftc-docs.firstinspires.org/en/latest/programming_resources/onbot_java/OnBot-Java-Tutorial.html)
 
 ## Our Repositories
+### Core
 - [Janxs Brain](https://github.com/CapitalRobotics/Janxs_Brain.git) Is our main FTC robot, Janx, the main repository, complete with the current season, as well as past seasons code.
 - [Errors Brain](https://github.com/CapitalRobotics/Errors_Brian.git) Is our repository for our practice FTC robot, Error, complete with introductory resources.
+
+### Autonomous
 - [ATEM](https://github.com/CapitalRobotics/ATEM.git) ATEM is an optimization machine learning model for the autonomous stage of the competition.
 - [Auto Track](https://github.com/CapitalRobotics/AutoTrack.git) Record movemnts in teleop, and replay autonomously.
  
